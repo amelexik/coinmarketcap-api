@@ -9,7 +9,7 @@ namespace coinmarketcap\api\tools;
  * @author Dmytro Zarezenko <dmytro.zarezenko@gmail.com>
  * @copyright (c) 2017, Dmytro Zarezenko
  *
- * @git https://github.com/dzarezenko/coinmarketcap-api
+ * @git https://github.com/amelexik/coinmarketcap-api
  * @license http://opensource.org/licenses/MIT
  */
 class Request {

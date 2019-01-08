@@ -1,9 +1,9 @@
 {
-    "name": "dzarezenko/coinmarketcap-api",
+    "name": "amelexik/coinmarketcap-api",
     "description": "PHP wrapper for the CoinMarketCap API.",
     "type": "library",
     "keywords": ["coinmarketcap", "api"],
-    "homepage": "https://github.com/dzarezenko/coinmarketcap-api",
+    "homepage": "https://github.com/amelexik/coinmarketcap-api",
     "license": "MIT",
     "authors": [
         {
